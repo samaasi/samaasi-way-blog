@@ -1,8 +1,8 @@
 import { ArrowLeft } from "lucide-react";
 import Header from "@/components/custom/header";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
 import AuthorCard from "@/components/custom/author-card";
+import { Card, CardContent } from "@/components/ui/card";
 import NewsletterCard from "@/components/custom/newsletter-card";
 
 interface BlogPostParams {
